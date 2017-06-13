@@ -4,6 +4,8 @@
 
 Short link: <http://bit.ly/ld4CoC>
 
+# NOTE: THIS DOCUMENT IS A WIP. IT IS NOT CURRENTLY COMPLETE OR APPROVED BY THE LD4 COMMUNITY.
+
 ## About & Scope
 
 The LD4 Community is dedicated to providing a welcoming, open, and positive experience for all its participants, in our community spaces online, in-person, formal and informal. The LD4 Community welcomes participation from people all over the world and these participants bring with them a wide variety of professional, personal and social backgrounds; whatever these may be, we treat all LD4 Community participants with dignity and respect.
