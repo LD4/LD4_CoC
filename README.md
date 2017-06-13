@@ -10,14 +10,12 @@ Short link: <http://bit.ly/ld4CoC>
 
 [Linked Data for Libraries, Linked Data for Production, and Linked Data for Libraries Labs](https://ld4l.org/) are a series of grant-funded projects working broadly on implementing Linked Data in library workflows across functional areas and domains. The umbrella, open community effort is referred to as 'LD4'.
 
-The LD4 Community is dedicated to providing a welcoming, open, and positive experience for all our participants, in our community spaces online, in-person, formal and informal. The LD4 Community welcomes participation from people all over the world and these participants bring with them a wide variety of professional, personal and social backgrounds; whatever these may be, we treat all LD4 Community participants with dignity and respect.
+The LD4 Community is dedicated to providing a welcoming, open, and positive experience for all our participants, in our community spaces online, in-person, formal, and informal. The LD4 Community welcomes participation from people all over the world and these participants bring with them a wide variety of professional, personal and social backgrounds; whatever these may be, we discuss ideas and collaborate from a standpoint of mutual respect. We work together to promote a respectful, safe, and open community. In particular, we expect that LD4 Community members are:
 
-We therefore strive to express ourselves simply and clearly remembering that unnecessary use of jargon will be a barrier to understanding. We discuss ideas and collaborate from a standpoint of mutual respect and reasoned argument. We work together to promote a respectful, safe, and open community. In particular, we expect that LD4 Community members are:
-
-- `Respectful`. All contributions are welcome. We may not always agree. When we disagree, we do this in a polite and professional manner, and we consult with others for help. When frustrated, we back away and look for good intentions, not reasons to be more frustrated. When we see a flaw in a contribution, we offer guidance on how to fix it.
-- `Collaborative`. Collaboration is vital. We collaborate to reduce redundancy, to share knowledge, to improve our product, and to perfect our processes. We strive to do our work as transparently as possible and we welcome new collaborators with enthusiasm. We also follow community guidelines for how to collaborate, including workflows and documented practices for contributing.
+- `Respectful`. All contributions are welcome. When we disagree, we do this in a polite and professional manner, and we consult with others for help. When frustrated, we back away and look for good intentions. When we see a flaw in a contribution, we offer guidance on how to fix it.
+- `Collaborative`. Collaboration is vital. We collaborate to reduce redundancy, to share knowledge, to improve our artifacts, and to perfect our processes. We strive to do our work as transparently as possible and we welcome new collaborators with enthusiasm. We also follow community guidelines for contributing.
 - `Grateful`. We say thank you and let people know when they have done good work. It is a small thing, but it means a lot.
-- `Learning`. When we are unsure, we ask for help. Nobody knows everything, and nobody is expected to be perfect. Questions will always be treated respectfully.
+- `Learning`. When we are unsure, we ask for help. Questions will always be treated respectfully.
 - `Volunteers`. We are respectful of each other’s time. The majority of the work done in this community is by volunteers. The depth of experience in the community is a great resource, but not an infinite one.
 
 (Thank you to the Samvera and Islandora Community Code of Conducts, from which we paraphrased for the above wording).
