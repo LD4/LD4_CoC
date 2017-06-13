@@ -98,7 +98,7 @@ The LD4 Community is built upon a wide range of experts, users, collaborators, a
 Openness and transparency as a default for LD4 Community work is part of our attachment to collaboration and engagement. Openness includes but is not limited to:
 - using public communication channels (or channels open to public requests to join, like the LD4 Slack channel) wherever possible for work discussion and collaboration;
 - using public spaces for work, with mechanisms available for public comment, feedback, or pull requests (such as open GitHub repositories with issue tracking or LD4 Wiki Pages that are open to comments);
-- publishing any LD4 Community artifacts in open formats;
+- publishing any LD4 Community artifacts in open formats and with licenses that support reuse;
 - and putting transparency first with regards to LD4 Community direction and decisions.
 
 For our community to be open and transparent but also effective and supportive, we realize that openness requires participants to follow the Social Rules and Anti-Harassment policy above.
