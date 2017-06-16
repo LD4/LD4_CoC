@@ -29,7 +29,7 @@ If you have comments, questions, or feedback, please [open an issue on this repo
 
 ## Social Rules
 
-In order to create an inclusive, safe, and open work environment, we ask that all LD4 Community participants follow a set of rules designed by the the Recurse Center, previously the Hacker School. In their own words, 'the goal [of the Recurse Center Social Rules] isn't to burden everyone with a bunch of annoying rules, or to give us a stick to bludgeon people with for "being bad." Rather, these rules are designed to help all of us build a pleasant, productive, and fearless community.'
+In order to create an inclusive, safe, and open work environment, we ask that all LD4 Community participants follow a set of rules designed by the [Recurse Center](https://www.recurse.com/), previously the Hacker School. In their own words, 'the goal [of the Recurse Center Social Rules] isn't to burden everyone with a bunch of annoying rules, or to give us a stick to bludgeon people with for "being bad." Rather, these rules are designed to help all of us build a pleasant, productive, and fearless community.'
 
 As such, these four rules are a lightweight set of explicit social norms to curtail specific kinds of behavior found to be destructive to a supportive, productive, and fun learning/working environment. The four rules are listed here; you can read more about them at http://recurse.com/manual#sub-sec-social-rules.
 
