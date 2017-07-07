@@ -4,8 +4,6 @@
 
 Short link: <http://bit.ly/ld4CoC>
 
-# NOTE: THIS DOCUMENT IS A WORK IN PROGRESS. IT IS NOT CURRENTLY COMPLETE OR APPROVED BY THE LD4 COMMUNITY.
-
 ## About & Scope
 
 [Linked Data for Libraries, Linked Data for Production, and Linked Data for Libraries Labs](https://ld4l.org/) are a series of grant-funded projects working broadly on implementing Linked Data in library workflows across functional areas and domains. The umbrella, open community effort is referred to as 'LD4'.
@@ -34,11 +32,11 @@ In order to create an inclusive, safe, and open work environment, we ask that al
 As such, these four rules are a lightweight set of explicit social norms to curtail specific kinds of behavior found to be destructive to a supportive, productive, and fun learning/working environment. The four rules are listed here; you can read more about them at http://recurse.com/manual#sub-sec-social-rules.
 
 - `"No feigning surprise."` You shouldn't act surprised when someone says they don't know something. There is no benefit to feigning surprise, and regardless of intent, it makes someone feel bad, or worse, about admitting that they don't know something.
-- `"No well-actually's."` This is when someone says something almost, but not entirely correct, and another person responds with "well, actually," and gives a correction. That's not to say we don't care about truth or precision, but there are better ways to communicate this.
+- `"No well-actually's."` This is when someone says something almost, but not entirely correct, and another person responds with "well, actually," and gives a correction that doesn't help move the conversation forward. That's not to say we don't care about truth or precision, but we want people to be aware of how and when they correct people, and whether or not it contributes to the goals of the conversation.
 - `"No back-seat driving."` If you overhear other people working through a problem, don't just intermittently toss advice in without engaging.
 - `"No subtle -isms"`. This last rule bans racism, sexism, homophobia, transphobia, and other kinds of bias. Subtle -isms are small things that make others feel uncomfortable, and might be familiar as they're under the term "microagressions."
 
-Tip of the hat here also to Mark Matienzo, who wrote the additional text explaining each of these rules in the context of a collaborative environment. We've paraphrased Matienzo's work here.
+Tip of the hat here also to Mark Matienzo, who wrote the additional text explaining each of these rules in the context of a collaborative environment. We've paraphrased or, in places, extended Matienzo's work here.
 
 ## Anti-Harassment Policy
 
