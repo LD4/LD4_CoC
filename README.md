@@ -23,7 +23,7 @@ To make this happen, we have here some expectations of all participants in the L
 - [Anti-Harassment Policy (including a Conflict Resolution strategy) to maintain a safe community](#anti-harassment-policy);
 - [Principles of Openness & Transparency to build an open community](#principles-of-openness--transparency).
 
-If you have comments, questions, or feedback, please [open an issue on this repository](/issues), use the #helpers channel on the LD4 Slack, or email the Public LD4 Google Group.
+If you have comments, questions, or feedback, please [open an issue on this repository](/issues), use the #helpers channel on the [LD4 Slack](http://ld4.slack.com) (the sign-up for LD4 Slack Channel is at http://ld4-slack.herokuapp.com), or email the Public LD4 Google Group (email being created).
 
 ## Social Rules
 
